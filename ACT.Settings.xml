@@ -1,0 +1,61 @@
+<Settings>
+  <Setting Label="Shallows">
+    <Setting Label="Entered" Id="ShallowsProgress.400" State="false" />
+    <Setting Label="Nephro Defeated" Id="ShallowsProgress.600" State="false" />
+    <Setting Label="Magista Defeated" Id="ShallowsProgress.1400" State="false" />
+    <Setting Label="Royal Shellsplitter Defeated" Id="ShallowsProgress.1500" State="false" />
+    <Setting Label="Polluted Platoon Pathfinder Defeated" Id="ShallowsProgress.1600" State="false" />
+  </Setting>
+  <Setting Label="New Carcinia">
+    <Setting Label="Entered" Id="NewCarciniaProgress.10" State="false" />
+    <Setting Label="Trash Day Cutscene" Id="NewCarciniaProgress.200" State="false" />
+    <Setting Label="Mailbox Map Piece" Id="NewCarciniaProgress.400" State="false" />
+    <Setting Label="Completed Map" Id="NewCarciniaProgress.600" State="false" />
+  </Setting>
+  <Setting Label="The Sands Between">
+    <Setting Label="Entered" Id="OpenOceanProgress.10" State="false" />
+    <Setting Label="Pagurus Defeated" Id="OpenOceanProgress.400" State="false" />
+  </Setting>
+  <Setting Label="Expired Grove">
+    <Setting Label="Entered" Id="ExpiredGroveProgress.10" State="false" />
+    <Setting Label="Heikea Defeated" Id="ExpiredGroveProgress.150" State="false" />
+    <Setting Label="Topoda Defeated" Id="ExpiredGroveProgress.300" State="false" />
+    <Setting Label="Diseased Lichenthrope Defeated" Id="ExpiredGroveProgress.700" State="false" />
+    <Setting Label="Curdled Carbonara Conoisseur Defeated" Id="ExpiredGroveProgress.800" State="false" />
+  </Setting>
+  <Setting Label="Scuttleport">
+    <Setting Label="Entered Facilities" Id="ScuttleportProgress.250" State="false" />
+    <Setting Label="Voltai Defeated" Id="ScuttleportProgress.850" State="false" />
+    <Setting Label="Boat Powered" Id="ScuttleportProgress.1000" State="false" />
+    <Setting Label="The Consortium Defeated" Id="ScuttleportProgress.1200" State="false" />
+    <Setting Label="Roland Defeated" Id="ScuttleportProgress.1300" State="false" />
+    <Setting Label="Scuttling Sludge Steamroller Defeated" Id="ScuttleportProgress.1400" State="false" />
+    <Setting Label="Ceviche Sisters Defeated" Id="ScuttleportProgress.1500" State="false" />
+  </Setting>
+  <Setting Label="The Unfathom">
+    <Setting Label="Depression Sequence" Id="TheUnfathomProgress.25" State="false" />
+    <Setting Label="Petroch Defeated" Id="TheUnfathomProgress.69" State="false" />
+    <Setting Label="Inkerton Defeated" Id="TheUnfathomProgress.3000" State="false" />
+	<Setting Label="Inkerton Skip" Id="Map_2_F-WhaleArena_to_0_BleachedCityMain" State="false" />
+  </Setting>
+  <Setting Label="Bleached City">
+    <Setting Label="Camstcha Defeated" Id="TheBleachedCityProgress.550" State="false" />
+	<Setting Label="Down the Toilet" Id="Map_0_BleachedCityMain_to_1_C-BottomoftheDrain" State="false" />
+    <Setting Label="Praya Dubia Defeated" Id="TheBleachedCityProgress.800" State="false" />
+  </Setting>
+  <Setting Label="Trash Island">
+    <Setting Label="Firth Defeated" Id="TrashIslandProgress.100" State="false" />
+  </Setting>
+  <Setting Label="Tree Skills">
+    <Setting Label="Basic Umami training" Id="SkillTreeUnlocks.100" State="false" />
+    <Setting Label="Parry" Id="SkillTreeUnlocks.1600" State="false" />
+    <Setting Label="Aggravation" Id="SkillTreeUnlocks.1400" State="false" />
+    <Setting Label="Self-Repair" Id="SkillTreeUnlocks.1500" State="false" />
+  </Setting>
+  <Setting Label="World Skills">
+    <Setting Label="Fishing line" Id="SkillWorldUnlocks.200" State="false" />
+  </Setting>
+  <Setting Label="Endings">
+    <Setting Label="Home" Id="Shell_HomeShell" State="false" />
+  </Setting>
+</Settings>
