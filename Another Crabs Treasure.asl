@@ -121,3 +121,9 @@ split {
 isLoading {
     return !current.Started && current.loadingScene != "Title" || current.Loading && !string.IsNullOrEmpty(current.LoadingString);
 }
+
+exit
+{
+    //pauses timer if the game crashes
+	timer.IsGameTimePaused = true;
+}
